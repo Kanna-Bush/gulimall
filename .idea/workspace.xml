@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb1e231c-c5bd-4743-983a-b3e0a0ce499a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gulimall.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/myproject/gulimall/coupon/GulimallCouponApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/myproject/gulimall/coupon/GulimallCouponApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/myproject/gulimall/coupon/controller/CouponController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/myproject/gulimall/coupon/controller/CouponController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/myproject/gulimall/member/GulimallMemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/myproject/gulimall/member/GulimallMemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/myproject/gulimall/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/myproject/gulimall/member/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-order/src/main/java/com/myproject/gulimall/order/GulimallOrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/src/main/java/com/myproject/gulimall/order/GulimallOrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-generator/src/main/resources/generator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/renren-generator/src/main/resources/generator.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kanna-Bush&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/Kanna-Bush/gulimall.git&quot;,
+    &quot;accountId&quot;: &quot;043ab62d-a858-40cc-b32d-04c341097472&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\study\Maven\apache-maven-3.8.8" />
+        <option name="localRepository" value="D:\study\Maven\maven-repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\study\Maven\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uoNvqPAMbl6lCi43iRd8AppsZz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.gulimall [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gulimall [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gulimall-member [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.renren-fast [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GulimallCouponApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GulimallGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GulimallMemberApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GulimallOrderApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RenrenApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\study\\ideaIU-2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RenrenApplication">
+    <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myproject.gulimall.coupon.GulimallCouponApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myproject.gulimall.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myproject.gulimall.lgateway.GulimallGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myproject.gulimall.lgateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myproject.gulimall.member.GulimallMemberApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myproject.gulimall.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myproject.gulimall.order.GulimallOrderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myproject.gulimall.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenGeneratorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="renren-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenGeneratorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/renren-fast-vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="Spring Boot.GulimallCouponApplication" />
+        <item itemvalue="Spring Boot.GulimallGatewayApplication" />
+        <item itemvalue="Spring Boot.GulimallMemberApplication" />
+        <item itemvalue="Spring Boot.GulimallOrderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb1e231c-c5bd-4743-983a-b3e0a0ce499a" name="Changes" comment="" />
+      <created>1742911201584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742911201584</updated>
+      <workItem from="1742911203380" duration="236000" />
+      <workItem from="1742967657376" duration="18222000" />
+      <workItem from="1743137667603" duration="16241000" />
+      <workItem from="1743168480923" duration="1077000" />
+      <workItem from="1743230601326" duration="1569000" />
+      <workItem from="1743238666484" duration="1668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
